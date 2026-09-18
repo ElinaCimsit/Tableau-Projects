@@ -19,3 +19,7 @@ The goal of this project was to analyze customer retention across different coho
 - Data visualization
 - Interactive dashboard design
 - Business analysis
+
+## Live Dashboard
+
+[Open the interactive dashboard in Tableau Public](https://public.tableau.com/views/CustomerCohortAnalysisE-commerce_17814429667150/CohortAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
