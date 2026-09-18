@@ -85,7 +85,7 @@ These filters allow the analysis to be adjusted for different player segments an
 
 ## Live Dashboard
 
-[Open the interactive dashboard in Tableau Public](https://public.tableau.com/views/_3_17600338024370/GameActivityDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Open the interactive dashboard in Tableau Public](https://public.tableau.com/views/GameActivityDashboard_17897533800910/GameActivityDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dashboard Preview
 
